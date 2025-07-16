@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me:
 🔭 Currently working on real-time data-driven projects and enhancing my personal portfolio
 👨‍💻 Passionate about Data Analytics, Frontend Development, and solving real-world problems with code
 🌱 Learning Power BI, advanced JavaScript, and data pipelines to transition toward Data Science
