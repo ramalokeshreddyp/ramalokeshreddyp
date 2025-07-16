@@ -80,13 +80,6 @@
 
 ---
 
-## 👁️ Visitors Count
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ramalokeshreddyp/count.svg" alt="Profile Views" />
-</p>
-
-
----
 
 <!-- Made with 💙 using markdown and passion -->
