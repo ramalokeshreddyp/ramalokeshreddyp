@@ -1,10 +1,10 @@
 ## 💫 About Me:
-🔭 Currently working on real-time data-driven projects and enhancing my personal portfolio
-👨‍💻 Passionate about Data Analytics, Frontend Development, and solving real-world problems with code
-🌱 Learning Power BI, advanced JavaScript, and data pipelines to transition toward Data Science
-🤝 Open to collaborations on frontend apps, data analysis tasks, or beginner-friendly open-source contributions
-💬 Ask me about Python, C++, SQL, DSA, and anything related to competitive programming
-🚀 Fun Fact: Maintained a 500+ day coding streak and genuinely enjoy debugging like solving puzzles!
+🔭 Currently working on real-time data-driven projects and enhancing my personal portfolio <br>
+👨‍💻 Passionate about Data Analytics, Frontend Development, and solving real-world problems with code<br>
+🌱 Learning Power BI, advanced JavaScript, and data pipelines to transition toward Data Science<br>
+🤝 Open to collaborations on frontend apps, data analysis tasks, or beginner-friendly open-source contributions<br>
+💬 Ask me about Python, C++, SQL, DSA, and anything related to competitive programming<br>
+🚀 Fun Fact: Maintained a 500+ day coding streak and genuinely enjoy debugging like solving puzzles!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rama-lokesh-reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rlpreddy565@gmail.com) 
