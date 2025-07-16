@@ -83,8 +83,9 @@
 ## 👁️ Visitors Count
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ramalokeshreddyp&label=Profile%20Views&color=0&icon=6&pretty=true" />
+  <img src="https://profile-counter.glitch.me/ramalokeshreddyp/count.svg" alt="Profile Views" />
 </p>
+
 
 ---
 
