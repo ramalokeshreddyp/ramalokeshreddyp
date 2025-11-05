@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently exploring areal-time data-driven apps and scaling up my portfolio
+- 🔭 Currently exploring real-time data-driven apps and scaling up my portfolio
 - 👨‍💻 Passionate about **Data Analytics**, **Frontend Development**, and solving real-world problems with **code**
 - 🌱 Actively learning **Power BI**, advanced **JavaScript**, and **data pipelines** to transition into **Data Science**
 - 🤝 Open to collaborations on frontend apps, dashboards, or beginner-friendly open-source projects
