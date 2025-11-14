@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 <div align="center">
   
