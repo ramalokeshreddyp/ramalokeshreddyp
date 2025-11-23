@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Rama Lokesh Reddy Penumallu</h1>
+<h1 align="center">🚀 Rama Lokesh Reddyyy Penumallu</h1>
 <p align="center">🌟 Aspiring Data Analyst | Front-End Dev | Competitive Programmer | Lifelong Learner 🌟</p>
 <p align="center">"Building, analyzing, and debugging one step at a time."</p>
 
