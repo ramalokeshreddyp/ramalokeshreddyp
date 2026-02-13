@@ -504,20 +504,22 @@ Automated scraping & performance tracking
 
 <table>
 <tr>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramalokeshreddyp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ramalokeshreddyp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
 </td>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramalokeshreddyp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramalokeshreddyp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&card_width=320" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ramalokeshreddyp&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak Stats" width="90%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ramalokeshreddyp&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&border=0D1117" alt="GitHub Streak Stats" width="90%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramalokeshreddyp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=C9D1D9" alt="Contribution Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramalokeshreddyp&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" width="90%" />
 
 </div>
 
@@ -531,7 +533,7 @@ Automated scraping & performance tracking
 
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramalokeshreddyp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ramalokeshreddyp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -597,8 +599,64 @@ Automated scraping & performance tracking
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/ramalokeshreddyp/ramalokeshreddyp/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramalokeshreddyp/ramalokeshreddyp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramalokeshreddyp/ramalokeshreddyp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramalokeshreddyp/ramalokeshreddyp/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+**Note:** To enable the snake animation, you'll need to set up the GitHub Action. See instructions below.
+
+<details>
+<summary><b>📝 Click to see setup instructions for Snake Animation</b></summary>
+<br/>
+
+1. Create a new repository named `ramalokeshreddyp` (same as your username)
+2. Create `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ramalokeshreddyp
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow manually or wait for it to run automatically
+
+</details>
 
 </div>
 
