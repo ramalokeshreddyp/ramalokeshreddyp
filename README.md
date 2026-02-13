@@ -614,7 +614,7 @@ Automated scraping & tracking
 <a href="tel:+916305958669">
 <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="60"/><br/>
 <h4>Phone</h4>
-<p>+91 345649439</p>
+<p>+91 6305958669</p>
 </a>
 </td>
 <td align="center" width="25%">
