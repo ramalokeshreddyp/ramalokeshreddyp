@@ -501,8 +501,8 @@ Automated scraping & tracking
 
 <br/>
 
-<a href="https://github.com/ramalokeshreddyp">
-  <img src="https://img.shields.io/badge/View_All_Profiles-6C63FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="All Profiles"/>
+<a href="https://codolio.com/profile/silent_loomer">
+  <img src="https://img.shields.io/badge/🌐%20View%20All%20Profiles%20on%20Codolio-6C63FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="All Profiles on Codolio"/>
 </a>
 
 </div>
