@@ -19,21 +19,22 @@
 
 <!-- Professional Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/Rama-lokesh-reddy">
+  <a href="https://www.linkedin.com/in/rama-lokesh-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rlpreddy565@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://prlr-profile.vercel.app">
+  <a href="https://prlr-profile.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ramalokeshreddyp">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/rlpreddy565/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+</p>
 </p>
 
 <!-- Smooth Divider -->
@@ -245,8 +246,8 @@ Overdraft prevention & balance validation
 </tr>
 </table>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ramalokeshreddyp)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalokeshreddyp)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=for-the-badge&logo=vercel&logoColor=white)](https://financial-ledger-api-with-double-entry.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalokeshreddyp/Financial-Ledger-API-with-Double-Entry-Bookkeeping)
 
 </td>
 </tr>
@@ -290,8 +291,8 @@ Bulk import, PDF & XLSX export
 </tr>
 </table>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=for-the-badge&logo=vercel&logoColor=white)](https://fatepick.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalokeshreddyp)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=for-the-badge&logo=vercel&logoColor=white)](https://fatepick.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalokeshreddyp/fatepick)
 
 </td>
 </tr>
@@ -335,8 +336,8 @@ Automated scraping & tracking
 </tr>
 </table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalokeshreddyp)
-[![Commits](https://img.shields.io/badge/Commits-124%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ramalokeshreddyp)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramalokeshreddyp/code_to_win)
+[![Commits](https://img.shields.io/badge/Commits-124%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ramalokeshreddyp/code_to_win/commits/main/)
 
 </td>
 </tr>
@@ -444,7 +445,7 @@ Automated scraping & tracking
 <table>
 <tr>
 <td align="center" width="220">
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/rlpreddy565/">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47195d00-d4e8-4e62-a53c-cd26f59dad26.gif" width="90"/><br/>
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/><br/><br/>
   <h3>🏆 Knight</h3>
@@ -453,7 +454,7 @@ Automated scraping & tracking
 </a>
 </td>
 <td align="center" width="220">
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/profile/rlpreddy565">
   <img src="https://user-images.githubusercontent.com/74038190/235294009-3c2b5bfc-7eb0-4e7c-bd4f-e4513802ff00.gif" width="90"/><br/>
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/><br/><br/>
   <h3>3⭐ Coder</h3>
@@ -462,7 +463,7 @@ Automated scraping & tracking
 </a>
 </td>
 <td align="center" width="220">
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/silent_loomer">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="90"/><br/>
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/><br/><br/>
   <h3>3⭐ Coder</h3>
@@ -472,7 +473,7 @@ Automated scraping & tracking
 </tr>
 <tr>
 <td align="center" width="220">
-<a href="https://www.codestudio.com/">
+<a href="https://www.naukri.com/code360/profile/silentloomer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e54e-9633-47f4-a8e1-c8e20ade2b53.gif" width="90"/><br/>
   <img src="https://img.shields.io/badge/CodeStudio-FF6B00?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio"/><br/><br/>
   <h3>🌟 Specialist</h3>
@@ -480,7 +481,7 @@ Automated scraping & tracking
 </a>
 </td>
 <td align="center" width="220">
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/rlpreddy">
   <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="90"/><br/>
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/><br/><br/>
   <h3>Newbie</h3>
@@ -488,7 +489,7 @@ Automated scraping & tracking
 </a>
 </td>
 <td align="center" width="220">
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/rlpreddy565">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="90"/><br/>
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/><br/><br/>
   <h3>5★ Problem Solver</h3>
@@ -617,14 +618,14 @@ Automated scraping & tracking
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://prlr-profile.vercel.app">
+<a href="https://prlr-profile.vercel.app/">
 <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/><br/>
 <h4>Portfolio</h4>
 <p>prlr-profile.vercel.app</p>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://linkedin.com/in/Rama-lokesh-reddy">
+<a href="https://www.linkedin.com/in/rama-lokesh-reddy/">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/><br/>
 <h4>LinkedIn</h4>
 <p>Connect with me</p>
