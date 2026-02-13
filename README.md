@@ -517,11 +517,11 @@ Automated scraping & tracking
 
 | Certification | Issuer | Link |
 |--------------|--------|------|
-| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=YOUR_ID) |
-| Amazon ML Summer School 2025 | Amazon | [View](https://www.amazon.science/ml-summer-school) |
-| GenAI Powered Data Analytics Job Simulation | Tata (Forage) | [View](https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/tata-data-visualisation) |
-| Data Analytics Essentials | Cisco Networking Academy | [View](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) |
-| Fundamentals of Deep Learning | NVIDIA Deep Learning Institute | [View](https://www.nvidia.com/en-us/training/) |
+| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | [View](https://drive.google.com/file/d/1YG5R8SMgPZzB8yqyv5pqvw8wsgeYVtfc/view) |
+| Amazon ML Summer School 2025 | Amazon | [View](https://drive.google.com/file/d/1FVOMFRI-rPYhVpUfKfUUlGTgQf_iMwP1/view) |
+| GenAI Powered Data Analytics Job Simulation | Tata (Forage) | [View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_NhsYnumZoJ28yGf3v_1750553897830_completion_certificate.pdf) |
+| Data Analytics Essentials | Cisco Networking Academy | [View](https://drive.google.com/file/d/1K3lUzpye7nhF5xOOuaBeM65Sn7z_JTHw/view) |
+| Fundamentals of Deep Learning | NVIDIA Deep Learning Institute | [View](https://www.credly.com/badges/391765fc-b508-4438-b169-76b9bcfba83d) |
 
 </details>
 
@@ -531,8 +531,8 @@ Automated scraping & tracking
 
 | Certification | Issuer | Link |
 |--------------|--------|------|
-| Software Design & Development: OOAD | Infosys Springboard | [View](https://infyspringboard.onwingspan.com/) |
-| Career Edge: Young Professional | TCS iON | [View](https://www.tcsion.com/dotcom/TCSSMB/index.html) |
+| Software Design & Development: OOAD | Infosys Springboard | [View](https://drive.google.com/file/d/1MvZGHz8YL4J-MGOe2zL_di7fx7VjRBQC/view) |
+| Career Edge: Young Professional | TCS iON | [View](https://drive.google.com/file/d/1Eb_DZbkKdUimVvaPLfoItbFY7kebyU1R/view) |
 
 </details>
 
@@ -542,11 +542,11 @@ Automated scraping & tracking
 
 | Certification | Issuer | Link |
 |--------------|--------|------|
-| Python Essentials | Cisco Networking Academy | [View](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) |
-| Problem Solving (Basic) | HackerRank | [View](https://www.hackerrank.com/certificates/) |
-| SQL (Intermediate) | HackerRank | [View](https://www.hackerrank.com/certificates/) |
-| Software Engineer Intern (Verified Role) | HackerRank | [View](https://www.hackerrank.com/skills-verification) |
-| Frontend Developer React (Verified Role) | HackerRank | [View](https://www.hackerrank.com/skills-verification) |
+| Python Essentials | Cisco Networking Academy | [View](https://www.credly.com/badges/287bd8cc-e32f-40dd-9b4a-0999b68ac12a) |
+| Problem Solving (Basic) | HackerRank | [View](https://www.hackerrank.com/certificates/e9c0c79f769f) |
+| SQL (Intermediate) | HackerRank | [View](https://www.hackerrank.com/certificates/50ef5a58f977) |
+| Software Engineer Intern (Verified Role) | HackerRank | [View](https://www.hackerrank.com/certificates/42ec61ed5de9) |
+| Frontend Developer React (Verified Role) | HackerRank | [View](https://www.hackerrank.com/certificates/906bb8059ad7) |
 
 </details>
 
