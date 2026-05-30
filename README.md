@@ -13,7 +13,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rama-lokesh-reddy/">LinkedIn</a> ·
-  <a href="https://prlr-profile.vercel.app/">Portfolio</a> ·
+  <a href="https://rlpreddyportfolio.vercel.app/">Portfolio</a> ·
   <a href="mailto:rlpreddy565@gmail.com">Email</a> ·
   <a href="https://github.com/ramalokeshreddyp">GitHub</a> ·
   <a href="https://leetcode.com/u/rlpreddy565/">LeetCode</a>
@@ -129,7 +129,7 @@ If you want to see my work or talk about an engineering role, these are the fast
 
 - Email: [rlpreddy565@gmail.com](mailto:rlpreddy565@gmail.com)
 - LinkedIn: [rama-lokesh-reddy](https://www.linkedin.com/in/rama-lokesh-reddy/)
-- Portfolio: [prlr-profile.vercel.app](https://prlr-profile.vercel.app/)
+- Portfolio: [prlr-profile.vercel.app](https://rlpreddyportfolio.vercel.app/)
 - GitHub: [ramalokeshreddyp](https://github.com/ramalokeshreddyp)
 
 ---
