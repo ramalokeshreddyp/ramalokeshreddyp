@@ -4,7 +4,7 @@
 <img src="https://wallpaperaccess.com/full/14696376.png" alt="Profile Banner" width="100%" />
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rama%20Lokesh%20Reddyyy%20Penumallu&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20|%20Full-Stack%20Developer%20|%20Data%20Analyst&descAlignY=55&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rama%20Lokesh%20Reddy%20Penumallu&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20|%20Full-Stack%20Developer%20|%20Data%20Analyst&descAlignY=55&descAlign=50&descSize=18" />
 
 <br/>
 
